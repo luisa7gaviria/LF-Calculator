@@ -29,7 +29,6 @@ public class MainFrame extends JFrame{ //Heredando el frame
         //         writeNums.setText(typeNumbers);
                 
         //     }
-            
         // });
 
         //Panel para botones
